@@ -1,0 +1,5 @@
+PROTEIN STRUCTURE ANALYSIS REPORT
+Chains: 8
+Chain IDs: A, B, C, D, E, F, G, H
+Residues: 1731
+Atoms: 27472
